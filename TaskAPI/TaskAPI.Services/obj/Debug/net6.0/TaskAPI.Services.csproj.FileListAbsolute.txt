@@ -1,0 +1,17 @@
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\bin\Debug\net6.0\TaskAPI.Services.deps.json
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\bin\Debug\net6.0\TaskAPI.Services.dll
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\bin\Debug\net6.0\TaskAPI.Services.pdb
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\bin\Debug\net6.0\TaskAPI.DataAccess.dll
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\bin\Debug\net6.0\TaskAPI.Models.dll
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\bin\Debug\net6.0\TaskAPI.DataAccess.pdb
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\bin\Debug\net6.0\TaskAPI.Models.pdb
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\obj\Debug\net6.0\TaskAPI.Services.csproj.AssemblyReference.cache
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\obj\Debug\net6.0\TaskAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\obj\Debug\net6.0\TaskAPI.Services.AssemblyInfoInputs.cache
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\obj\Debug\net6.0\TaskAPI.Services.AssemblyInfo.cs
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\obj\Debug\net6.0\TaskAPI.Services.csproj.CoreCompileInputs.cache
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\obj\Debug\net6.0\TaskAPI.Services.csproj.CopyComplete
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\obj\Debug\net6.0\TaskAPI.Services.dll
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\obj\Debug\net6.0\refint\TaskAPI.Services.dll
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\obj\Debug\net6.0\TaskAPI.Services.pdb
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Services\obj\Debug\net6.0\ref\TaskAPI.Services.dll

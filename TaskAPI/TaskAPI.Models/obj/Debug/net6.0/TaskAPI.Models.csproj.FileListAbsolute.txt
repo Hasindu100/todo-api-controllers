@@ -1,0 +1,12 @@
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Models\bin\Debug\net6.0\TaskAPI.Models.deps.json
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Models\bin\Debug\net6.0\TaskAPI.Models.dll
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Models\bin\Debug\net6.0\TaskAPI.Models.pdb
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.csproj.AssemblyReference.cache
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.AssemblyInfoInputs.cache
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.AssemblyInfo.cs
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.dll
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\refint\TaskAPI.Models.dll
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.pdb
+C:\Users\Hasindu.Shehara\Documents\Learning\ASP .Net\ToDoAPI\TaskAPI\TaskAPI.Models\obj\Debug\net6.0\ref\TaskAPI.Models.dll
